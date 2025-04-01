@@ -1,0 +1,4 @@
+a) Liczb parzystych: 495
+b) Najmniejsza liczba: 10010 z wartością sumy 2
+   Największa liczba: 187869866 z wartością sumy 59
+c) Liczby tworzące ciąg rosnący: ['2389', '23567', '123456789', '3468']

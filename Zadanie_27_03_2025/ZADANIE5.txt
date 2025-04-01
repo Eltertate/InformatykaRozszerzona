@@ -1,0 +1,3 @@
+a) Wierszy w których jedna z liczb jest wielokrotnością drugiej: 10
+b) Liczb których NWD jest równe 1: 584
+c) Wierszy gdzie suma cyfr 1 liczby jest równa sumie cyfr 2 liczby: 48

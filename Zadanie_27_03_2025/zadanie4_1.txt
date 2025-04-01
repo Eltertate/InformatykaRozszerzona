@@ -1,0 +1,19 @@
+a) Napisów o parzystej długości: 504
+b) Napisów które zawierają taką samą liczbę zer i jedynek: 110
+c) Liczby składające się z samych zer: 32
+   Liczby składające się z samych jedynek: 50
+d) Liczb: 	2-znakowych: 43
+	3-znakowych: 38
+	4-znakowych: 37
+	5-znakowych: 57
+	6-znakowych: 53
+	7-znakowych: 68
+	8-znakowych: 78
+	9-znakowych: 103
+	10-znakowych: 83
+	11-znakowych: 90
+	12-znakowych: 86
+	13-znakowych: 81
+	14-znakowych: 68
+	15-znakowych: 59
+	16-znakowych: 56
